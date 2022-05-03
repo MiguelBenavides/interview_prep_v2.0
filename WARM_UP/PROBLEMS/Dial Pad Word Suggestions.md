@@ -7,7 +7,8 @@ You are given the following dictionary of possible words:
 >**Dictionary** -> ["bat", "cat", "catalog", "energy", "baceball"]
 
 Return (at most 4) suggestions from the dictionary when the user inputs numbers consecutively.
->**Example.**
+
+## **Example.**
 >
 >**Input:** 117
 >
