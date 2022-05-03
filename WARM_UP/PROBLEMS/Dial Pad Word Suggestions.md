@@ -8,5 +8,7 @@ You are given the following dictionary of possible words:
 
 Return (at most 4) suggestions from the dictionary when the user inputs numbers consecutively.
 >**Example.**
+>
 >**Input:** 117
+>
 >**Output:** ["bat", "cat"]
