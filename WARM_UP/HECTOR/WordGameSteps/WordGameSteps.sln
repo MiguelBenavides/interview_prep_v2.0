@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGameSteps", "WordGameSteps\WordGameSteps.csproj", "{30BA7CE2-7DE7-44E6-A668-BC43B9B600F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EA445315-E3B7-4819-BED4-4D92D94D1525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BA7CE2-7DE7-44E6-A668-BC43B9B600F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BA7CE2-7DE7-44E6-A668-BC43B9B600F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BA7CE2-7DE7-44E6-A668-BC43B9B600F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BA7CE2-7DE7-44E6-A668-BC43B9B600F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA445315-E3B7-4819-BED4-4D92D94D1525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA445315-E3B7-4819-BED4-4D92D94D1525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA445315-E3B7-4819-BED4-4D92D94D1525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA445315-E3B7-4819-BED4-4D92D94D1525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3192C1BD-C89F-48E9-AAC1-3F521D7F48CF}
+	EndGlobalSection
+EndGlobal
