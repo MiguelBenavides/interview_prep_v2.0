@@ -1,8 +1,7 @@
-from pip import List
 from collections import defaultdict, deque
 
 class WordGame:
-    def wordGameSteps(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+    def wordGameSteps(self, beginWord: str, endWord: str, wordList: list[str]) -> int:
         if endWord not in wordList:
             return 0
 
