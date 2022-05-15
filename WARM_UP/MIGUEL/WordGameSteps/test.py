@@ -1,6 +1,6 @@
-import unittest
 #Use at cmd to test: python -m unittest test.py
 
+import unittest
 import WordGameSteps
 
 class TestWordGame(unittest.TestCase):
